@@ -1,0 +1,5 @@
+{
+	"title": "Aqui ingresas los datos que necesita el bot",
+	"bot_token": "coloca aqui el bot del token",
+	"api_youtube": "Coloca aqui el key / token de la api de youtute Data v3"
+}
