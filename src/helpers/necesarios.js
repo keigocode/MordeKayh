@@ -46,6 +46,7 @@ function converterArray(object){
 async function leveling(message, init, servidor){
   const iniciacon = message.content.split(' ', 1)[0].toLowerCase();
   const usuario = await init.usuario(servidor, message.author.id);
+  let footer = `Ejecutado por ${message.author.tag}`;
   usuario.mensajes = usuario.mensajes + 1;
   usuario.xp = usuario.xp + Math.floor(message.content.length * 0.3);
   usuario.tag = message.author.tag;
