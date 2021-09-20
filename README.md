@@ -13,4 +13,4 @@ Todos los comandos funcionan atravez de if, else eso significa que solo estan en
 el bot tiene moderación, musica, tickets, sugerencias, configuración etc.
 
 
-**Podras obtener soporte en: https://discord.gg/4r3bTAWGSF **
+**Podras obtener soporte de instalación y mejoras en: https://discord.gg/4r3bTAWGSF **
